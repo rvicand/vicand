@@ -9,6 +9,6 @@ Autor: rvicand <ramiromartinezvieira@gmail.com>
 
 ================================================================
 
-1º Descargue la imagen iso.
-2º Copiela a una partición con sistema de ficheros ext4.
-3º Acceda a la partición y lease el fichero /readme-first.txt para saber como proceder.
+  1º Descargue la imagen iso.
+  2º Copiela a una partición con sistema de ficheros ext4.
+  3º Acceda a la partición y lease el fichero /readme-first.txt para saber como proceder.
